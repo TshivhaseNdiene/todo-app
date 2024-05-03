@@ -1,5 +1,3 @@
-// src/components/TodoForm.js
-
 import React, { useState } from 'react';
 
 function TodoForm({ addTodo }) {
